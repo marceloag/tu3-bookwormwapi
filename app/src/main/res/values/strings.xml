@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BookWormWApi</string>
+    <string name="bookworm_app">BookWorm App</string>
+    <string name="title_activity_edit_book">EditBookActivity</string>
+</resources>
